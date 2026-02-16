@@ -41,11 +41,15 @@ uyghur-stt-bench/
 |---------|------|---------------|--------|---------|-------|
 | [BilingualASR](https://github.com/GSQZ/BilingualASR) | Open-source (Uyghur+Chinese) | — | [providers/bilingual-asr/](providers/bilingual-asr/) | [results/bilingual-asr/](results/bilingual-asr/) | Blocked — pretrained model download links are broken |
 | [Clipto](https://www.clipto.com/) | Commercial SaaS | — | — | — | Claims Uyghur support but does not actually provide it |
+| [GoTranscript](https://gotranscript.com/our-languages) | Commercial SaaS | — | — | — | Requires requesting a quote and multi-step setup, no easy trial — skipped for now |
 | [Gheyret ASR](https://github.com/gheyret/uyghur-asr-transformer) | Open-source transformer | Latin (ULY) | [providers/gheyret-asr/](providers/gheyret-asr/) (submodule) | [results/gheyret-asr/](results/gheyret-asr/) | |
 | [Konch](https://app.konch.ai/) | Commercial SaaS | Arabic | [providers/konch/](providers/konch/) | [results/konch/](results/konch/) | Web interface |
+| [Lingvanex](https://lingvanex.com/services/uyghur-speech-to-text/) | Commercial SaaS | — | — | — | Claims Uyghur support but does not actually provide it |
 | [OpenL](https://openl.io/translate/speech/uyghur) | Commercial SaaS | Arabic | [providers/openl/](providers/openl/) | [results/openl/](results/openl/) | Web interface |
 | [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | Open-source LLM | — | [providers/qwen3-asr/](providers/qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | Planned — no official Uyghur support, requires NVIDIA GPU, [reportedly works](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
 | [Sonix](https://sonix.ai/) | Commercial SaaS | Arabic | [providers/sonix/](providers/sonix/) | [results/sonix/](results/sonix/) | |
+| [Transkriptor](https://transkriptor.com/) | Commercial SaaS | — | — | — | Claims Uyghur support but does not actually provide it |
+| [TurboScribe](https://turboscribe.ai/) | Commercial SaaS | — | — | — | Claims Uyghur support but transcribes to Turkish instead |
 | [Speechmatics](https://www.speechmatics.com/) | Commercial API | Arabic | [providers/speechmatics/](providers/speechmatics/) (submodule) | [results/speechmatics/](results/speechmatics/) | |
 | [SpeechYou](https://app.speechyou.com/) | Commercial SaaS | Arabic | [providers/speechyou/](providers/speechyou/) | [results/speechyou/](results/speechyou/) | Web interface |
 

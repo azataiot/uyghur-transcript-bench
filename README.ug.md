@@ -43,11 +43,15 @@ uyghur-stt-bench/
 |-----------|------|-------|------------|------------|---------|
 | [BilingualASR](https://github.com/GSQZ/BilingualASR) | ئوچۇق كودلۇق (ئۇيغۇرچە+خەنزۇچە) | — | [providers/bilingual-asr/](providers/bilingual-asr/) | [results/bilingual-asr/](results/bilingual-asr/) | توسالغان — مودېل چۈشۈرۈش ئۇلانمىلىرى بۇزۇلغان |
 | [Clipto](https://www.clipto.com/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
+| [GoTranscript](https://gotranscript.com/our-languages) | تىجارەت SaaS | — | — | — | باھا سوراش ۋە كۆپ باسقۇچلۇق تەڭشەش كېرەك، ئاسان سىناق يوق — ھازىرچە ئاتلاندى |
 | [Gheyret ASR](https://github.com/gheyret/uyghur-asr-transformer) | ئوچۇق كودلۇق transformer | لاتىن (ULY) | [providers/gheyret-asr/](providers/gheyret-asr/) (تارماق مودۇل) | [results/gheyret-asr/](results/gheyret-asr/) | |
 | [Konch](https://app.konch.ai/) | تىجارەت SaaS | ئەرەب | [providers/konch/](providers/konch/) | [results/konch/](results/konch/) | تور كۆرۈنمىسى |
+| [Lingvanex](https://lingvanex.com/services/uyghur-speech-to-text/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
 | [OpenL](https://openl.io/translate/speech/uyghur) | تىجارەت SaaS | ئەرەب | [providers/openl/](providers/openl/) | [results/openl/](results/openl/) | تور كۆرۈنمىسى |
 | [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | ئوچۇق كودلۇق LLM | — | [providers/qwen3-asr/](providers/qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | پىلانلانغان — رەسمىي ئۇيغۇرچە قوللىمايدۇ، NVIDIA GPU كېرەك، [ئىشلەيدىغانلىقى خەۋەر قىلىندى](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
 | [Sonix](https://sonix.ai/) | تىجارەت SaaS | ئەرەب | [providers/sonix/](providers/sonix/) | [results/sonix/](results/sonix/) | |
+| [Transkriptor](https://transkriptor.com/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
+| [TurboScribe](https://turboscribe.ai/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئۇيغۇرچە ئەمەس تۈركچىگە ئايلاندۇرىدۇ |
 | [Speechmatics](https://www.speechmatics.com/) | تىجارەت API | ئەرەب | [providers/speechmatics/](providers/speechmatics/) (تارماق مودۇل) | [results/speechmatics/](results/speechmatics/) | |
 | [SpeechYou](https://app.speechyou.com/) | تىجارەت SaaS | ئەرەب | [providers/speechyou/](providers/speechyou/) | [results/speechyou/](results/speechyou/) | تور كۆرۈنمىسى |
 
