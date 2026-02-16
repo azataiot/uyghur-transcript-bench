@@ -16,9 +16,13 @@
 uyghur-transcript-bench/
 ├── README.md
 ├── samples/                   # ئورتاق سىناق ئاۋاز ھۆججەتلىرى
+├── gheyret-asr/               # Gheyret ASR ئەسلى كودى (تارماق مودۇل)
+├── qwen3-asr/                 # Qwen3-ASR خاتىرىلىرى
 ├── sonix/                     # Sonix خاتىرىلىرى
 ├── speechmatics/              # Speechmatics ئەسلى كودى (تارماق مودۇل)
 ├── results/
+│   ├── gheyret-asr/           # Gheyret ASR نەتىجىلىرى
+│   ├── qwen3-asr/             # Qwen3-ASR نەتىجىلىرى
 │   ├── sonix/                 # Sonix نەتىجىلىرى
 │   └── speechmatics/          # Speechmatics نەتىجىلىرى
 └── ...
@@ -26,10 +30,12 @@ uyghur-transcript-bench/
 
 ## سىنالغان مەھسۇلاتلار
 
-| مەھسۇلات | ئەسلى كود | نەتىجىلەر |
-|-----------|------------|------------|
-| [Sonix](https://sonix.ai/) | [sonix/](sonix/) | [results/sonix/](results/sonix/) |
-| [Speechmatics](https://www.speechmatics.com/) | [speechmatics/](speechmatics/) (تارماق مودۇل) | [results/speechmatics/](results/speechmatics/) |
+| مەھسۇلات | تىپى | يېزىق | ئەسلى كود | نەتىجىلەر | ئىزاھات |
+|-----------|------|-------|------------|------------|---------|
+| [Gheyret ASR](https://github.com/gheyret/uyghur-asr-transformer) | ئوچۇق كودلۇق transformer | لاتىن (ULY) | [gheyret-asr/](gheyret-asr/) (تارماق مودۇل) | [results/gheyret-asr/](results/gheyret-asr/) | |
+| [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | ئوچۇق كودلۇق LLM | — | [qwen3-asr/](qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | پىلانلانغان — رەسمىي ئۇيغۇرچە قوللىمايدۇ، NVIDIA GPU كېرەك، [ئىشلەيدىغانلىقى خەۋەر قىلىندى](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
+| [Sonix](https://sonix.ai/) | تىجارەت SaaS | ئەرەب | [sonix/](sonix/) | [results/sonix/](results/sonix/) | |
+| [Speechmatics](https://www.speechmatics.com/) | تىجارەت API | ئەرەب | [speechmatics/](speechmatics/) (تارماق مودۇل) | [results/speechmatics/](results/speechmatics/) | |
 
 ## سىناق نۇسخىلىرى
 

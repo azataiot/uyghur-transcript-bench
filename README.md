@@ -16,9 +16,13 @@ Each folder in the repository root represents a different STT product/service:
 uyghur-transcript-bench/
 ├── README.md
 ├── samples/                   # Shared test audio files
+├── gheyret-asr/               # Gheyret ASR source (submodule)
+├── qwen3-asr/                 # Qwen3-ASR notes
 ├── sonix/                     # Sonix notes
 ├── speechmatics/              # Speechmatics source (submodule)
 ├── results/
+│   ├── gheyret-asr/           # Gheyret ASR results
+│   ├── qwen3-asr/             # Qwen3-ASR results
 │   ├── sonix/                 # Sonix results
 │   └── speechmatics/          # Speechmatics results
 └── ...
@@ -26,10 +30,12 @@ uyghur-transcript-bench/
 
 ## Products Tested
 
-| Product | Source | Results |
-|---------|--------|---------|
-| [Sonix](https://sonix.ai/) | [sonix/](sonix/) | [results/sonix/](results/sonix/) |
-| [Speechmatics](https://www.speechmatics.com/) | [speechmatics/](speechmatics/) (submodule) | [results/speechmatics/](results/speechmatics/) |
+| Product | Type | Output Script | Source | Results | Notes |
+|---------|------|---------------|--------|---------|-------|
+| [Gheyret ASR](https://github.com/gheyret/uyghur-asr-transformer) | Open-source transformer | Latin (ULY) | [gheyret-asr/](gheyret-asr/) (submodule) | [results/gheyret-asr/](results/gheyret-asr/) | |
+| [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | Open-source LLM | — | [qwen3-asr/](qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | Planned — no official Uyghur support, requires NVIDIA GPU, [reportedly works](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
+| [Sonix](https://sonix.ai/) | Commercial SaaS | Arabic | [sonix/](sonix/) | [results/sonix/](results/sonix/) | |
+| [Speechmatics](https://www.speechmatics.com/) | Commercial API | Arabic | [speechmatics/](speechmatics/) (submodule) | [results/speechmatics/](results/speechmatics/) | |
 
 ## Test Samples
 

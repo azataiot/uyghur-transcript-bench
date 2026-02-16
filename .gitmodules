@@ -3,4 +3,4 @@
 	url = https://github.com/azataiot/uyghur-sst-transcript-test.git
 [submodule "gheyret-asr"]
 	path = gheyret-asr
-	url = https://github.com/gheyret/uyghur-asr-transformer.git
+	url = https://github.com/azataiot/fork-uyghur-asr-transformer.git

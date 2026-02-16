@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+
+# Model weights
+*.pth
+*.pt
+*.bin
+*.onnx
+*.7z
