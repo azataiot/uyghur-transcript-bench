@@ -16,9 +16,11 @@ Each folder in the repository root represents a different STT product/service:
 uyghur-transcript-bench/
 ├── README.md
 ├── samples/                   # Shared test audio files
+├── sonix/                     # Sonix notes
 ├── speechmatics/              # Speechmatics source (submodule)
 ├── results/
-│   └── speechmatics/          # Benchmark results
+│   ├── sonix/                 # Sonix results
+│   └── speechmatics/          # Speechmatics results
 └── ...
 ```
 
@@ -26,6 +28,7 @@ uyghur-transcript-bench/
 
 | Product | Source | Results |
 |---------|--------|---------|
+| [Sonix](https://sonix.ai/) | [sonix/](sonix/) | [results/sonix/](results/sonix/) |
 | [Speechmatics](https://www.speechmatics.com/) | [speechmatics/](speechmatics/) (submodule) | [results/speechmatics/](results/speechmatics/) |
 
 ## Test Samples

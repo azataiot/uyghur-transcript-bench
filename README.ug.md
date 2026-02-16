@@ -16,9 +16,11 @@
 uyghur-transcript-bench/
 ├── README.md
 ├── samples/                   # ئورتاق سىناق ئاۋاز ھۆججەتلىرى
+├── sonix/                     # Sonix خاتىرىلىرى
 ├── speechmatics/              # Speechmatics ئەسلى كودى (تارماق مودۇل)
 ├── results/
-│   └── speechmatics/          # سىناق نەتىجىلىرى
+│   ├── sonix/                 # Sonix نەتىجىلىرى
+│   └── speechmatics/          # Speechmatics نەتىجىلىرى
 └── ...
 ```
 
@@ -26,6 +28,7 @@ uyghur-transcript-bench/
 
 | مەھسۇلات | ئەسلى كود | نەتىجىلەر |
 |-----------|------------|------------|
+| [Sonix](https://sonix.ai/) | [sonix/](sonix/) | [results/sonix/](results/sonix/) |
 | [Speechmatics](https://www.speechmatics.com/) | [speechmatics/](speechmatics/) (تارماق مودۇل) | [results/speechmatics/](results/speechmatics/) |
 
 ## سىناق نۇسخىلىرى
