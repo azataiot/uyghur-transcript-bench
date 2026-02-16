@@ -19,6 +19,7 @@ uyghur-stt-bench/
 ├── providers/
 │   ├── bilingual-asr/             # BilingualASR خاتىرىلىرى
 │   ├── gheyret-asr/               # Gheyret ASR ئەسلى كودى (تارماق مودۇل)
+│   ├── konch/                     # Konch خاتىرىلىرى
 │   ├── qwen3-asr/                 # Qwen3-ASR خاتىرىلىرى
 │   ├── sonix/                     # Sonix خاتىرىلىرى
 │   ├── speechmatics/              # Speechmatics ئەسلى كودى (تارماق مودۇل)
@@ -26,6 +27,7 @@ uyghur-stt-bench/
 ├── results/
 │   ├── bilingual-asr/             # BilingualASR نەتىجىلىرى
 │   ├── gheyret-asr/               # Gheyret ASR نەتىجىلىرى
+│   ├── konch/                     # Konch نەتىجىلىرى
 │   ├── qwen3-asr/                 # Qwen3-ASR نەتىجىلىرى
 │   ├── sonix/                     # Sonix نەتىجىلىرى
 │   ├── speechmatics/              # Speechmatics نەتىجىلىرى
@@ -39,6 +41,7 @@ uyghur-stt-bench/
 |-----------|------|-------|------------|------------|---------|
 | [BilingualASR](https://github.com/GSQZ/BilingualASR) | ئوچۇق كودلۇق (ئۇيغۇرچە+خەنزۇچە) | — | [providers/bilingual-asr/](providers/bilingual-asr/) | [results/bilingual-asr/](results/bilingual-asr/) | توسالغان — مودېل چۈشۈرۈش ئۇلانمىلىرى بۇزۇلغان |
 | [Gheyret ASR](https://github.com/gheyret/uyghur-asr-transformer) | ئوچۇق كودلۇق transformer | لاتىن (ULY) | [providers/gheyret-asr/](providers/gheyret-asr/) (تارماق مودۇل) | [results/gheyret-asr/](results/gheyret-asr/) | |
+| [Konch](https://app.konch.ai/) | تىجارەت SaaS | ئەرەب | [providers/konch/](providers/konch/) | [results/konch/](results/konch/) | تور كۆرۈنمىسى |
 | [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | ئوچۇق كودلۇق LLM | — | [providers/qwen3-asr/](providers/qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | پىلانلانغان — رەسمىي ئۇيغۇرچە قوللىمايدۇ، NVIDIA GPU كېرەك، [ئىشلەيدىغانلىقى خەۋەر قىلىندى](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
 | [Sonix](https://sonix.ai/) | تىجارەت SaaS | ئەرەب | [providers/sonix/](providers/sonix/) | [results/sonix/](results/sonix/) | |
 | [Speechmatics](https://www.speechmatics.com/) | تىجارەت API | ئەرەب | [providers/speechmatics/](providers/speechmatics/) (تارماق مودۇل) | [results/speechmatics/](results/speechmatics/) | |
