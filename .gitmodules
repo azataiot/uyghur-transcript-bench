@@ -1,0 +1,3 @@
+[submodule "speechmatics"]
+	path = speechmatics
+	url = https://github.com/azataiot/uyghur-sst-transcript-test.git
