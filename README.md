@@ -53,6 +53,7 @@ uyghur-stt-bench/
 | [Picute](https://picute.net/) | Commercial SaaS | — | — | — | Claims Uyghur support but does not actually provide it |
 | [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | Open-source LLM | — | [providers/qwen3-asr/](providers/qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | Planned — no official Uyghur support, requires NVIDIA GPU, [reportedly works](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
 | [Sonix](https://sonix.ai/) | Commercial SaaS | Arabic | [providers/sonix/](providers/sonix/) | [results/sonix/](results/sonix/) | |
+| [Uyghur-Translator](https://github.com/vvirgooo2/Uyghur-Translator) | Open-source (Meta MMS + NLLB) | Arabic | — | — | Planned — wraps Meta MMS-1B-All for ASR, requires multi-step setup |
 | [Transkriptor](https://transkriptor.com/) | Commercial SaaS | — | — | — | Claims Uyghur support but does not actually provide it |
 | [TransPerfect](https://www.transperfect.com/) | Commercial SaaS | — | — | — | Listed as top Uyghur STT provider but supported languages do not include Uyghur |
 | [Transword](https://transword.ai/) | Commercial SaaS | — | — | — | Uyghur is selectable in the web app but transcribes to Azerbaijani instead |

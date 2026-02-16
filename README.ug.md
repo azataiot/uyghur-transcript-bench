@@ -55,6 +55,7 @@ uyghur-stt-bench/
 | [Picute](https://picute.net/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
 | [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | ئوچۇق كودلۇق LLM | — | [providers/qwen3-asr/](providers/qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | پىلانلانغان — رەسمىي ئۇيغۇرچە قوللىمايدۇ، NVIDIA GPU كېرەك، [ئىشلەيدىغانلىقى خەۋەر قىلىندى](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
 | [Sonix](https://sonix.ai/) | تىجارەت SaaS | ئەرەب | [providers/sonix/](providers/sonix/) | [results/sonix/](results/sonix/) | |
+| [Uyghur-Translator](https://github.com/vvirgooo2/Uyghur-Translator) | ئوچۇق كودلۇق (Meta MMS + NLLB) | ئەرەب | — | — | پىلانلانغان — Meta MMS-1B-All مودېلىنى ئىشلىتىدۇ، كۆپ باسقۇچلۇق تەڭشەش كېرەك |
 | [Transkriptor](https://transkriptor.com/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
 | [TransPerfect](https://www.transperfect.com/) | تىجارەت SaaS | — | — | — | ئالدىنقى ئۇيغۇرچە STT تەمىنلىگۈچى دەپ تىزىملانغان، ئەمما قوللايدىغان تىللارىدا ئۇيغۇرچە يوق |
 | [Transword](https://transword.ai/) | تىجارەت SaaS | — | — | — | تور ئەپتا ئۇيغۇرچە تاللانىدۇ، ئەمما ئۇيغۇرچە ئەمەس ئازەربەيجانچىغا ئايلاندۇرىدۇ |
