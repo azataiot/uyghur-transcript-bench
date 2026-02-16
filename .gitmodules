@@ -1,6 +1,3 @@
-[submodule "speechmatics"]
-	path = providers/speechmatics
-	url = https://github.com/azataiot/uyghur-sst-transcript-test.git
 [submodule "gheyret-asr"]
 	path = providers/gheyret-asr
 	url = https://github.com/azataiot/fork-uyghur-asr-transformer.git
