@@ -12,4 +12,5 @@ dependencies = [
     "transformers>=4.33",
     "accelerate",
     "protobuf",
+    "torchcodec",
 ]
