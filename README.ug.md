@@ -44,6 +44,7 @@ uyghur-stt-bench/
 | [BilingualASR](https://github.com/GSQZ/BilingualASR) | ئوچۇق كودلۇق (ئۇيغۇرچە+خەنزۇچە) | — | [providers/bilingual-asr/](providers/bilingual-asr/) | [results/bilingual-asr/](results/bilingual-asr/) | توسالغان — مودېل چۈشۈرۈش ئۇلانمىلىرى بۇزۇلغان |
 | [CapCut](https://www.capcut.com/tools/speech-to-text-converter) | تىجارەت SaaS | — | — | — | 130+ تىلنى قوللايمەن دەيدۇ، ئۇيغۇرچە قوللىشى تەستىقلانمىغان — سىنالىدۇ |
 | [Clipto](https://www.clipto.com/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
+| [GhostCut](https://jollytoday.com/) | تىجارەت SaaS | — | — | — | پىلانلانغان — ئۇيغۇرچە ۋىدېئو تەرجىمە قوللىشىنى ئېلان قىلىدۇ |
 | [GoTranscript](https://gotranscript.com/our-languages) | تىجارەت SaaS | — | — | — | باھا سوراش ۋە كۆپ باسقۇچلۇق تەڭشەش كېرەك، ئاسان سىناق يوق — ھازىرچە ئاتلاندى |
 | [Gheyret ASR](https://github.com/gheyret/uyghur-asr-transformer) | ئوچۇق كودلۇق transformer | لاتىن (ULY) | [providers/gheyret-asr/](providers/gheyret-asr/) (تارماق مودۇل) | [results/gheyret-asr/](results/gheyret-asr/) | |
 | [Konch](https://app.konch.ai/) | تىجارەت SaaS | ئەرەب | [providers/konch/](providers/konch/) | [results/konch/](results/konch/) | تور كۆرۈنمىسى |
