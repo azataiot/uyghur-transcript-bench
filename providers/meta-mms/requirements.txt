@@ -1,0 +1,6 @@
+# Dependencies for Meta MMS Uyghur ASR transcription.
+# Azat (@azataiot) 2026-02-16
+torch>=1.13
+torchaudio>=0.13
+transformers>=4.33
+accelerate
