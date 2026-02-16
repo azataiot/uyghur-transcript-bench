@@ -47,6 +47,7 @@ uyghur-stt-bench/
 | [Cockatoo](https://www.cockatoo.com/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
 | [ElevenLabs](https://elevenlabs.io/) | تىجارەت SaaS | — | [providers/elevenlabs/](providers/elevenlabs/) | [results/elevenlabs/](results/elevenlabs/) | ئۇيغۇرچە ئەمەس ئۆزبېكچە، تۈركچە ياكى قىرغىزچىغا ئايلاندۇرىدۇ |
 | [GhostCut](https://jollytoday.com/) | تىجارەت SaaS | — | — | — | پىلانلانغان — ئۇيغۇرچە ۋىدېئو تەرجىمە قوللىشىنى ئېلان قىلىدۇ |
+| [Google Cloud STT](https://cloud.google.com/speech-to-text) | تىجارەت API | — | — | — | 125+ تىلنى قوللايدۇ، ئەمما ئۇيغۇرچە ئىچىدە يوق |
 | [GoTranscript](https://gotranscript.com/our-languages) | تىجارەت SaaS | — | — | — | باھا سوراش ۋە كۆپ باسقۇچلۇق تەڭشەش كېرەك، ئاسان سىناق يوق — ھازىرچە ئاتلاندى |
 | [Gheyret ASR](https://github.com/gheyret/uyghur-asr-transformer) | ئوچۇق كودلۇق transformer | لاتىن (ULY) | [providers/gheyret-asr/](providers/gheyret-asr/) (تارماق مودۇل) | [results/gheyret-asr/](results/gheyret-asr/) | |
 | [Konch](https://app.konch.ai/) | تىجارەت SaaS | ئەرەب | [providers/konch/](providers/konch/) | [results/konch/](results/konch/) | تور كۆرۈنمىسى |
