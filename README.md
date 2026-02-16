@@ -59,9 +59,9 @@ All samples are in the [`samples/`](samples/) folder.
 | `dutar-01.mp3` | Hard | 2:44 | Background music, child crying, noisy environment |
 | `speedy-01.mp3` | Medium | 0:36 | Faster-than-normal speech tempo |
 
-## Note
+## Provider Selection
 
-The products listed above were selected because they claim Uyghur language support on their official websites or documentation. The selection is not based on any bias or preference.
+The products listed above were found by searching Google and Bing for Uyghur speech-to-text services across the first 10 pages of results. Every service that appeared in those results was evaluated. Many websites and apps claim to support Uyghur, but do not actually offer it — for example, some have no Uyghur option in their language selector on the web interface, or no Uyghur option in their SDK/API when attempting to submit audio for transcription. Only products that genuinely provide Uyghur STT functionality (or have an open-source model targeting Uyghur) are included in the benchmark. The selection is not based on any bias or preference.
 
 ## Disclaimer
 
