@@ -55,6 +55,7 @@ uyghur-stt-bench/
 | [Konch](https://app.konch.ai/) | تىجارەت SaaS | ئەرەب | [providers/konch/](providers/konch/) | [results/konch/](results/konch/) | تور كۆرۈنمىسى |
 | [Lingvanex](https://lingvanex.com/services/uyghur-speech-to-text/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
 | [OpenL](https://openl.io/translate/speech/uyghur) | تىجارەت SaaS | ئەرەب | [providers/openl/](providers/openl/) | [results/openl/](results/openl/) | تور كۆرۈنمىسى |
+| [Meta MMS](https://ai.meta.com/blog/multilingual-model-speech-recognition/) | ئوچۇق كودلۇق | ئەرەب | — | — | پىلانلانغان — ئۇيغۇرچە ASR نى قوللايدۇ (1,100+ تىل)، مودېل: mms-1b-all |
 | [OpenAI Whisper](https://github.com/openai/whisper) | ئوچۇق كودلۇق | — | — | — | 99 تىلنى قوللايدۇ، ئەمما ئۇيغۇرچە ئىچىدە يوق |
 | [Picute](https://picute.net/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
 | [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | ئوچۇق كودلۇق LLM | — | [providers/qwen3-asr/](providers/qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | پىلانلانغان — رەسمىي ئۇيغۇرچە قوللىمايدۇ، NVIDIA GPU كېرەك، [ئىشلەيدىغانلىقى خەۋەر قىلىندى](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
