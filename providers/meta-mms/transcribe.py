@@ -8,7 +8,7 @@ import torchaudio
 from transformers import Wav2Vec2ForCTC, AutoProcessor
 
 MODEL_ID = "facebook/mms-1b-all"
-TARGET_LANG = "uig"
+TARGET_LANG = "uig-script_arabic"
 SAMPLE_RATE = 16000
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))

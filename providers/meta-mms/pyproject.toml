@@ -11,4 +11,5 @@ dependencies = [
     "torchaudio>=0.13",
     "transformers>=4.33",
     "accelerate",
+    "protobuf",
 ]
