@@ -49,6 +49,7 @@ uyghur-stt-bench/
 | [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | Open-source LLM | — | [providers/qwen3-asr/](providers/qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | Planned — no official Uyghur support, requires NVIDIA GPU, [reportedly works](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
 | [Sonix](https://sonix.ai/) | Commercial SaaS | Arabic | [providers/sonix/](providers/sonix/) | [results/sonix/](results/sonix/) | |
 | [Transkriptor](https://transkriptor.com/) | Commercial SaaS | — | — | — | Claims Uyghur support but does not actually provide it |
+| [TransPerfect](https://www.transperfect.com/) | Commercial SaaS | — | — | — | Listed as top Uyghur STT provider but supported languages do not include Uyghur |
 | [TurboScribe](https://turboscribe.ai/) | Commercial SaaS | — | — | — | Claims Uyghur support but transcribes to Turkish instead |
 | [Speechmatics](https://www.speechmatics.com/) | Commercial API | Arabic | [providers/speechmatics/](providers/speechmatics/) (submodule) | [results/speechmatics/](results/speechmatics/) | |
 | [SpeechYou](https://app.speechyou.com/) | Commercial SaaS | Arabic | [providers/speechyou/](providers/speechyou/) | [results/speechyou/](results/speechyou/) | Web interface |

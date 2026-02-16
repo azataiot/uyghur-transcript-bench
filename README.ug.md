@@ -51,6 +51,7 @@ uyghur-stt-bench/
 | [Qwen3-ASR](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) | ئوچۇق كودلۇق LLM | — | [providers/qwen3-asr/](providers/qwen3-asr/) | [results/qwen3-asr/](results/qwen3-asr/) | پىلانلانغان — رەسمىي ئۇيغۇرچە قوللىمايدۇ، NVIDIA GPU كېرەك، [ئىشلەيدىغانلىقى خەۋەر قىلىندى](https://blog.csdn.net/weixin_42599908/article/details/158059889) |
 | [Sonix](https://sonix.ai/) | تىجارەت SaaS | ئەرەب | [providers/sonix/](providers/sonix/) | [results/sonix/](results/sonix/) | |
 | [Transkriptor](https://transkriptor.com/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
+| [TransPerfect](https://www.transperfect.com/) | تىجارەت SaaS | — | — | — | ئالدىنقى ئۇيغۇرچە STT تەمىنلىگۈچى دەپ تىزىملانغان، ئەمما قوللايدىغان تىللارىدا ئۇيغۇرچە يوق |
 | [TurboScribe](https://turboscribe.ai/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئۇيغۇرچە ئەمەس تۈركچىگە ئايلاندۇرىدۇ |
 | [Speechmatics](https://www.speechmatics.com/) | تىجارەت API | ئەرەب | [providers/speechmatics/](providers/speechmatics/) (تارماق مودۇل) | [results/speechmatics/](results/speechmatics/) | |
 | [SpeechYou](https://app.speechyou.com/) | تىجارەت SaaS | ئەرەب | [providers/speechyou/](providers/speechyou/) | [results/speechyou/](results/speechyou/) | تور كۆرۈنمىسى |
