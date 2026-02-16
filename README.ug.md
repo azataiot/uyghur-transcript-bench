@@ -44,6 +44,7 @@ uyghur-stt-bench/
 | [BilingualASR](https://github.com/GSQZ/BilingualASR) | ئوچۇق كودلۇق (ئۇيغۇرچە+خەنزۇچە) | — | [providers/bilingual-asr/](providers/bilingual-asr/) | [results/bilingual-asr/](results/bilingual-asr/) | توسالغان — مودېل چۈشۈرۈش ئۇلانمىلىرى بۇزۇلغان |
 | [CapCut](https://www.capcut.com/tools/speech-to-text-converter) | تىجارەت SaaS | — | — | — | 130+ تىلنى قوللايمەن دەيدۇ، ئۇيغۇرچە قوللىشى تەستىقلانمىغان — سىنالىدۇ |
 | [Clipto](https://www.clipto.com/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
+| [Cockatoo](https://www.cockatoo.com/) | تىجارەت SaaS | — | — | — | ئۇيغۇرچىنى قوللايمەن دەيدۇ، ئەمما ئەمەلىيەتتە قوللىمايدۇ |
 | [ElevenLabs](https://elevenlabs.io/) | تىجارەت SaaS | — | [providers/elevenlabs/](providers/elevenlabs/) | [results/elevenlabs/](results/elevenlabs/) | ئۇيغۇرچە ئەمەس ئۆزبېكچە، تۈركچە ياكى قىرغىزچىغا ئايلاندۇرىدۇ |
 | [GhostCut](https://jollytoday.com/) | تىجارەت SaaS | — | — | — | پىلانلانغان — ئۇيغۇرچە ۋىدېئو تەرجىمە قوللىشىنى ئېلان قىلىدۇ |
 | [GoTranscript](https://gotranscript.com/our-languages) | تىجارەت SaaS | — | — | — | باھا سوراش ۋە كۆپ باسقۇچلۇق تەڭشەش كېرەك، ئاسان سىناق يوق — ھازىرچە ئاتلاندى |

@@ -42,6 +42,7 @@ uyghur-stt-bench/
 | [BilingualASR](https://github.com/GSQZ/BilingualASR) | Open-source (Uyghur+Chinese) | — | [providers/bilingual-asr/](providers/bilingual-asr/) | [results/bilingual-asr/](results/bilingual-asr/) | Blocked — pretrained model download links are broken |
 | [CapCut](https://www.capcut.com/tools/speech-to-text-converter) | Commercial SaaS | — | — | — | Claims 130+ languages for STT, Uyghur support unconfirmed — to be tested |
 | [Clipto](https://www.clipto.com/) | Commercial SaaS | — | — | — | Claims Uyghur support but does not actually provide it |
+| [Cockatoo](https://www.cockatoo.com/) | Commercial SaaS | — | — | — | Claims Uyghur support but does not actually provide it |
 | [ElevenLabs](https://elevenlabs.io/) | Commercial SaaS | — | [providers/elevenlabs/](providers/elevenlabs/) | [results/elevenlabs/](results/elevenlabs/) | Transcribes to Uzbek, Turkish, or Kyrgyz instead of Uyghur |
 | [GhostCut](https://jollytoday.com/) | Commercial SaaS | — | — | — | Planned — claims Uyghur video translation support |
 | [GoTranscript](https://gotranscript.com/our-languages) | Commercial SaaS | — | — | — | Requires requesting a quote and multi-step setup, no easy trial — skipped for now |
